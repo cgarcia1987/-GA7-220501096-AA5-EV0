@@ -1,0 +1,5 @@
+com\mycompany\miproyecto\JakartaRestConfiguration.class
+servlets\SVinicio_sesion.class
+servlets\SVCRMCALL.class
+com\mycompany\miproyecto\resources\JakartaEE10Resource.class
+conexion\conexionDB.class
